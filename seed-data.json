@@ -1,0 +1,354 @@
+{
+  "appName": "Home In One Solution",
+  "version": "1.0.0",
+  "created": "2025-12-26T17:14:51.629297",
+  "budget": [
+    {
+      "id": 1,
+      "category": "Permitting",
+      "estimate": 705.5,
+      "paid": null,
+      "desc": "This is for the contractors to dipose of trash and restoom amenity to be compliant with State and City Codes.  "
+    },
+    {
+      "id": 2,
+      "category": "Dumpster/Porta Privy",
+      "estimate": 1500,
+      "paid": null,
+      "desc": "This is for the contractors to dipose of trash and restoom amenity to be compliant with State and City Codes.  "
+    },
+    {
+      "id": 3,
+      "category": "Property Prep",
+      "estimate": 1500,
+      "paid": null,
+      "desc": "This is to have someone clear your property of any unwanted items and make room for your house. Along with compliance for silt fence and drainage to keep debris from washing off the property and onto others. "
+    },
+    {
+      "id": 4,
+      "category": "Building Pad",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is to have someone build the pad for the house foundation to be built onto. "
+    },
+    {
+      "id": 5,
+      "category": "Inspector",
+      "estimate": null,
+      "paid": null,
+      "desc": "Hire a professional inspector, this will benefit you when it comes to getting the job done correctly. "
+    },
+    {
+      "id": 7,
+      "category": "Foundation",
+      "estimate": 21350,
+      "paid": 21350,
+      "desc": "This is for your concrete foundation."
+    },
+    {
+      "id": 8,
+      "category": "Driveway/Flat Work",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is to build your driveway to get in and out of the property. "
+    },
+    {
+      "id": 9,
+      "category": "Water Meter/ Well/tie -in",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is to establish water services to your home."
+    },
+    {
+      "id": 10,
+      "category": "Plumbing",
+      "estimate": 6250,
+      "paid": 3353.4,
+      "desc": "This is for all of your plumbing. Rough-in (foundation and walls) and finish out. Septic System separate unless tying into city sewage. "
+    },
+    {
+      "id": 11,
+      "category": "Gas Meter/Propane",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your gas services to your home. "
+    },
+    {
+      "id": 12,
+      "category": "Septic System",
+      "estimate": 6000,
+      "paid": null,
+      "desc": "This is for your septic system (conventional or aerobic)"
+    },
+    {
+      "id": 13,
+      "category": "Electrical",
+      "estimate": 9625,
+      "paid": null,
+      "desc": "This is for your electrical. Rough-in (foundation and walls) and finish out. Electrical Service may be seperate depending on location. "
+    },
+    {
+      "id": 14,
+      "category": "Electrical Service",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is to verify where your electrical service will come from. Provider normally have cost involved. "
+    },
+    {
+      "id": 15,
+      "category": "Solar/Generator",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is if you want to install solar or back up generator. "
+    },
+    {
+      "id": 16,
+      "category": "HVAC System",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your HVAC system for heating and cooling your home. "
+    },
+    {
+      "id": 17,
+      "category": "Appliances",
+      "estimate": null,
+      "paid": null,
+      "desc": "This for all your large appliances. (dryer, washer, dishwasher, range, cook top, oven, refridgerator, venthhood and microwave.)"
+    },
+    {
+      "id": 18,
+      "category": "Framing Labor",
+      "estimate": 28750,
+      "paid": null,
+      "desc": null
+    },
+    {
+      "id": 18.5,
+      "category": "Framing Materials",
+      "estimate": 33308.29,
+      "paid": null,
+      "desc": "This for your house framing. Most include the soffit and eve trim along with window and exterior door installation and trim. "
+    },
+    {
+      "id": 19,
+      "category": "Roof",
+      "estimate": 5000,
+      "paid": null,
+      "desc": "This is for your roof finish"
+    },
+    {
+      "id": 20,
+      "category": "Gutters",
+      "estimate": 3500,
+      "paid": null,
+      "desc": "This is for your gutter system on your house. "
+    },
+    {
+      "id": 21,
+      "category": "Windows/Doors",
+      "estimate": 10868,
+      "paid": null,
+      "desc": "This is for purchasing and install of windows and doors. "
+    },
+    {
+      "id": 22,
+      "category": "Garage Doors",
+      "estimate": 1800,
+      "paid": null,
+      "desc": "This is for your garage doors and door openers. "
+    },
+    {
+      "id": 23,
+      "category": "Insulation",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your homes insulation. (spray foam, batting, blow-in)"
+    },
+    {
+      "id": 24,
+      "category": "Exterior siding",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your exterior siding. (Brick, stucco, wood, hardy board etc.)"
+    },
+    {
+      "id": 25,
+      "category": "Security/Internet/Audio Video",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for any needs for Security, Internet, Audio and video systems throughout your home. "
+    },
+    {
+      "id": 26,
+      "category": "Drywall",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for the sheetrock. It can include Tape, Bed and Texturing. "
+    },
+    {
+      "id": 27,
+      "category": "Tape, Bed & Texture",
+      "estimate": 1500,
+      "paid": null,
+      "desc": "This is for your Tape, bed and texturing of the interior of the house. "
+    },
+    {
+      "id": 28,
+      "category": "Cabinets",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your house cabinets, vanities, Lockers, etc. "
+    },
+    {
+      "id": 29,
+      "category": "Counter Tops",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your counter tops for the cabinets. "
+    },
+    {
+      "id": 30,
+      "category": "Trim",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for the house trim. Usually includes hanging interior doors, built in shelving, closet shelves etc."
+    },
+    {
+      "id": 31,
+      "category": "Paint",
+      "estimate": 9655,
+      "paid": null,
+      "desc": "This is for your house paint, Interior and Exterior. "
+    },
+    {
+      "id": 32,
+      "category": "Flooring",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your house floors. Stained concrete, wood floors, tile carpet. "
+    },
+    {
+      "id": 33,
+      "category": "Clean-up",
+      "estimate": 1500,
+      "paid": null,
+      "desc": "This is to have a construction cleaning of your home inside and out if specified. "
+    },
+    {
+      "id": 34,
+      "category": "Sprinkler System",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for your sprinkler system. Should go in before sod. Requires electrical stub out for sprinkler control. "
+    },
+    {
+      "id": 35,
+      "category": "Landscaping",
+      "estimate": 1500,
+      "paid": null,
+      "desc": "This is for your outside finish. "
+    },
+    {
+      "id": 36,
+      "category": "Patios, Pergola, Greenhouse, ETC.",
+      "estimate": null,
+      "paid": null,
+      "desc": "This is for additions outside the home build. "
+    },
+    {
+      "id": 37,
+      "category": "Electrical Permit",
+      "estimate": 160,
+      "paid": null,
+      "desc": null
+    },
+    {
+      "id": 38,
+      "category": "General",
+      "estimate": null,
+      "paid": null,
+      "desc": null
+    },
+    {
+      "id": 39,
+      "category": "Plumbing Permit",
+      "estimate": 160,
+      "paid": null,
+      "desc": null
+    },
+    {
+      "id": 40,
+      "category": "Surveying",
+      "estimate": 541.25,
+      "paid": null,
+      "desc": null
+    }
+  ],
+  "tasks": {
+    "Electrical": [
+      {
+        "id": 1,
+        "title": "Submit Plans for estimate from Electrical Contractors",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 2,
+        "title": "Chose Electrical Contractor",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 3,
+        "title": "Verify with Contractor on setting the electrical T-Pole for construction start",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 4,
+        "title": "Set up a date to do a construction walk through with customer to verify placements of devices, appliances and lighting.",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 5,
+        "title": "Electrical rough in should take place after all framing, HVAC and plumbing has been performed.",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 6,
+        "title": "Start electrical rough in.",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 7,
+        "title": "Verify rough in has been completed.",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 8,
+        "title": "Schedule Electricl trim out for completion of electrical.",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      },
+      {
+        "id": 9,
+        "title": "Perform walk through with electrical contractor to go over appliances, lightng, and devices installation.",
+        "status": "not_started",
+        "dueDate": "",
+        "notes": ""
+      }
+    ]
+  }
+}
