@@ -4,46 +4,47 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Home In One Solution</title>
+  <link rel="icon" type="image/png" href="./assets/logo.png" />
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <div id="app">
-    <header class="topbar">
-      <div class="brand">
-        <div class="logo">H1</div>
-        <div>
-          <div class="brand-title">Home In One Solution</div>
-          <div class="brand-sub">Build checklist + budget dashboard (local, offline-friendly)</div>
-        </div>
+  <header class="topbar">
+    <div class="brand">
+      <img class="logo-img" src="./assets/logo.png" alt="Home In One Solution logo" />
+      <div>
+        <div class="brand-title">Home In One Solution</div>
+        <div class="brand-sub">Construction management dashboard (prototype)</div>
       </div>
+    </div>
 
-      <div class="topbar-actions">
-        <button id="btnExport" class="btn">Export JSON</button>
-        <label class="btn btn-secondary">
-          Import JSON
-          <input id="fileImport" type="file" accept="application/json" hidden />
-        </label>
-        <button id="btnReset" class="btn btn-danger">Reset to Template</button>
-      </div>
-    </header>
+    <div class="topbar-actions">
+      <button id="btnExport" class="btn">Export Backup</button>
+      <label class="btn btn-secondary">
+        Import Backup
+        <input id="fileImport" type="file" accept="application/json" hidden />
+      </label>
+      <button id="btnReset" class="btn btn-danger">Reset Template</button>
+    </div>
+  </header>
 
-    <div class="layout">
-      <aside class="sidebar">
-        <div class="nav-title">Pages</div>
-        <nav class="nav" id="nav"></nav>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="nav-title">Navigation</div>
+      <nav class="nav" id="nav"></nav>
 
-        <div class="sidebar-footer">
-          <div class="hint">
-            <div class="hint-title">Tip</div>
-            <div class="hint-text">All data is stored in your browser (localStorage). Use Export/Import to move it between devices.</div>
+      <div class="sidebar-footer">
+        <div class="hint">
+          <div class="hint-title">Storage</div>
+          <div class="hint-text">
+            Data saves in your browser. Photos/videos save locally (IndexedDB). Export backups often.
           </div>
         </div>
-      </aside>
+      </div>
+    </aside>
 
-      <main class="main">
-        <div id="view"></div>
-      </main>
-    </div>
+    <main class="main">
+      <div id="view"></div>
+    </main>
   </div>
 
   <script src="./app.js"></script>
